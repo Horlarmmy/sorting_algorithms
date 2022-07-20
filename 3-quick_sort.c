@@ -159,5 +159,4 @@ void quick_sort(int *array, size_t size)
 if (size < 2)
 return;
 myquicksort(array, 0, size - 1, size);
->>>>>>> f036f8fe0a03639b74b2ae3801046c2d19035ea3
 }
