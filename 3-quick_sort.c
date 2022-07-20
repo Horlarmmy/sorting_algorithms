@@ -86,7 +86,7 @@ void quick_sort(int *array, size_t size)
 		return;
 
 	myquicksort(array, 0, size - 1, size);
-=======
+/**
 * myswap - swaps two values
 * @array: data sort input
 * @firts: first
